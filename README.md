@@ -1,4 +1,4 @@
-# 🚇 Analyse de la fréquentation du Pôle de La Défense – RATP (2019–2024)
+# Analyse de la fréquentation du Pôle de La Défense – RATP (2019–2024)
 
 ## Contexte
 
