@@ -32,13 +32,6 @@ Source : [Open Data RATP – data.gouv.fr](https://www.data.gouv.fr/fr/datasets/
 ![Moyennes par type de jour](outputs/02_moyennes_annuelles_type_jour.png)
 ![Comparaison 2019 vs 2024](outputs/05_comparaison_2019_2024.png)
 
-## Lancer le projet
-```bash
-git clone https://github.com/TON_USERNAME/ratp-ladefense-analysis.git
-cd ratp-ladefense-analysis
-pip install -r requirements.txt
-python analyse.py
-```
 
 ## Stack technique
 
