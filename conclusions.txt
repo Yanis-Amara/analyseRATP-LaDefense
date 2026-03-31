@@ -1,0 +1,16 @@
+
+ANALYSE DE LA FRÉQUENTATION DU PÔLE DE LA DÉFENSE (RATP)
+
+1. Les jours ouvrés hors vacances (JOHV) restent les plus fréquentés.
+2. La fréquentation moyenne JOHV passe de 375,374 en 2019 à 318,795 en 2024, soit une variation de -15.07%.
+3. Les samedis passent de 177,404 à 196,120, soit 10.55%.
+4. Les dimanches / jours fériés passent de 119,768 à 131,038, soit 9.41%.
+5. La part de la pointe du matin (8h+9h) en JOHV passe de 22.22% en 2019 à 21.75% en 2024.
+6. La part de la pointe du soir (17h+18h) en JOHV passe de 23.88% en 2019 à 23.92% en 2024.
+
+INTERPRÉTATION :
+- La fréquentation des jours ouvrés n'a pas totalement retrouvé son niveau de 2019.
+- Les week-ends ont davantage retrouvé, voire dépassé, leur niveau d'avant.
+- On observe un léger lissage de la pointe du matin, mais pas de rupture massive.
+- La pointe du soir reste forte.
+- Les évolutions observées doivent être interprétées avec prudence, car la période 2019-2024 a aussi été marquée par la crise sanitaire et l'évolution des pratiques de mobilité.
